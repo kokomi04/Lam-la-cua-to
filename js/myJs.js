@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "Helu b Lâm!",
-  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Đồng ý yêu tớ nhé ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
-  text5: "Cậu mơ à???",
-  text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
-  text8: "Gửi cho tớ <3",
+  text1: "Helu Lâm iu!",
+  text2: "Tớ có điều này muốn nói với cậu",
+  text3: "Đồng ý làm người yêu mình nhé ._.",
+  text4: "Nếu cậu ko trả lời mà thoát ra tức là đồng ý rồiii",
+  text5: "Khồngg :3",
+  text6: "Mình đồng ý <3",
+  text7: "Okee chốt rồi nhé. Mình nên đặt tên con là gì được nhỉ :v",
+  text8: "Gửi cho Duy",
   text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text10: "Huhu yêu Lâm nhấttt :3",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
-  text12: "Okii lunn <3",
+    "Còn chờ gì nữa. Inbox cho tớ đi nàooo",
+  text12: "Okie Duy <3",
 };
 
 $(document).ready(function () {
@@ -114,7 +114,7 @@ $(document).ready(function () {
       html: true,
       width: 900,
       padding: "3em",
-      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Whyyy'>",
+      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Gì cũng được, miễn là được ở bên Duy'>",
       background: '#fff url("img/iput-bg.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com";
+            window.location = "http://fb.com/Kokomi04";
           },
         });
       }
