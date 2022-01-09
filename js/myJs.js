@@ -7,10 +7,10 @@ const textConfig = {
   text6: "Mình đồng ý <3",
   text7: "Okee chốt rồi nhé. Nhưng mà cho Duy hỏi Lâm yêu Duy vì điều gì ạ :3",
   text8: "Gửi cho Duy",
-  text9: "Vì Duy đẹp trai, à ko, điều gì ở Duy tớ cũng yêu <3",
+  text9: "Vì Duy đẹp trai, à ko, điều gì ở Duy tớ cũng yêu <3   ",
   text10: "Tớ biết mà. Huhu yêu Lâm nhấttt :3",
   text11:
-    "Còn chờ gì nữa. Inbox cho tớ ngay nhé",
+    "Còn chờ gì nữa. Inbox tớ ngay nàooo",
   text12: "Okie Duy <3",
 };
 
@@ -114,7 +114,7 @@ $(document).ready(function () {
       html: true,
       width: 900,
       padding: "3em",
-      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Gì cũng được, miễn là được ở bên Duy '>",
+      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Yêu Duy chẳng cần lý do'>",
       background: '#fff url("img/iput-bg.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
