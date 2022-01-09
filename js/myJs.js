@@ -1,16 +1,16 @@
 const textConfig = {
   text1: "Helu Lâm iu!",
   text2: "Tớ có điều này muốn nói với cậu",
-  text3: "Đồng ý làm người yêu mình nhé ._.",
+  text3: "Lâm ơi đồng ý làm người yêu mình nhé!! ._.",
   text4: "Nếu cậu ko trả lời mà thoát ra tức là đồng ý rồiii",
   text5: "Khồngg :3",
   text6: "Mình đồng ý <3",
-  text7: "Okee chốt rồi nhé. Mình nên đặt tên con là gì được nhỉ :v",
+  text7: "Okee chốt rồi nhé. Mình nên đặt tên con là gì được ạ :v",
   text8: "Gửi cho Duy",
   text9: "Vì cậu đẹp try vlllll",
   text10: "Huhu yêu Lâm nhấttt :3",
   text11:
-    "Còn chờ gì nữa. Inbox cho tớ đi nàooo",
+    "Còn chờ gì nữa. Inbox cho tớ ngay nhé",
   text12: "Okie Duy <3",
 };
 
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com/Kokomi04";
+            window.location = "http://m.me/Kokomi04";
           },
         });
       }
