@@ -5,10 +5,10 @@ const textConfig = {
   text4: "Nếu cậu ko trả lời mà thoát ra tức là đồng ý rồiii",
   text5: "Khồngg :3",
   text6: "Mình đồng ý <3",
-  text7: "Okee chốt rồi nhé. Mình nên đặt tên con là gì được ạ :v",
+  text7: "Okee chốt rồi nhé. Nhưng mà cho Duy hỏi Lâm yêu Duy vì điều gì ạ :3",
   text8: "Gửi cho Duy",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Huhu yêu Lâm nhấttt :3",
+  text9: "Vì Duy đẹp trai, à ko, điều gì ở Duy tớ cũng yêu <3",
+  text10: "Tớ biết mà. Huhu yêu Lâm nhấttt :3",
   text11:
     "Còn chờ gì nữa. Inbox cho tớ ngay nhé",
   text12: "Okie Duy <3",
@@ -35,7 +35,7 @@ $(document).ready(function () {
     Swal.fire({
       title: textConfig.text1,
       text: textConfig.text2,
-      imageUrl: "img/cuteCatv.jpg",
+      imageUrl: "img/cuteCat.jpg",
       imageWidth: 300,
       imageHeight: 300,
       background: '#fff url("img/iput-bg.jpg")',
